@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "221971215007",
+    "project_id": "booking-room-82921",
+    "storage_bucket": "booking-room-82921.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221971215007:android:01615f2e412c61f477a8aa",
+        "android_client_info": {
+          "package_name": "com.example.new_99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221971215007-rvdtfa0f8u690n1oumq37aghvh3acahe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS32ZMDKun-dbRukoXk7Y3h90WPiL2N3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221971215007-rvdtfa0f8u690n1oumq37aghvh3acahe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
