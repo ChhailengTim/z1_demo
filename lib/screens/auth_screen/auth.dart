@@ -74,8 +74,6 @@ class AuthController extends GetxController {
   }
 
   void logout() async {
-    await auth.signOut().then((value) {
-      debugPrint('Sign Out $user');
-    });
+    await auth.signOut().then((value) {});
   }
 }
